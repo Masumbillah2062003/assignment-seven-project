@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta dish with creamy sauce and crispy bacon",
+      "ingredients": ["400g spaghetti", "150g pancetta or bacon", "3 large eggs", "75g grated Parmesan cheese", "Salt and black pepper to taste"],
+      "preparing_time": "20 min",
+      "calories": "450 calories",
+      "image": "https://i.ibb.co/RCvQTgh/Grilled-chicken7.jpg"
+    },
+    {
+      "id": "2",
+      "recipe_name": "Chicken Tikka Masala",
+      "short_description": "Popular Indian dish with marinated chicken in a spiced tomato-based sauce",
+      "ingredients": ["600g chicken breast", "200ml plain yogurt", "3 tbsp tikka masala paste", "400g canned chopped tomatoes", "1 onion, finely chopped"],
+      "preparing_time": "40 min",
+      "calories": "380 calories",
+      "image": "https://i.ibb.co/sJFZCGm/Vegetables-Pizza6.jpg"
+    },
+    {
+      "id": "3",
+      "recipe_name": "Caprese Salad",
+      "short_description": "Refreshing Italian salad with tomatoes, mozzarella, and basil",
+      "ingredients": ["3 large tomatoes", "200g fresh mozzarella cheese", "1/4 cup fresh basil leaves", "2 tbsp balsamic vinegar", "2 tbsp extra virgin olive oil"],
+      "preparing_time": "10 min",
+      "calories": "250 calories",
+      "image": "https://i.ibb.co/pRZ33xd/Chicken-salad4.jpg"
+    },
+    {
+      "id": "4",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Quick and healthy stir-fry with a variety of colorful vegetables",
+      "ingredients": ["300g mixed vegetables (bell peppers, broccoli, carrots)", "150g firm tofu, cubed", "3 tbsp soy sauce", "2 cloves garlic, minced", "1 tbsp sesame oil"],
+      "preparing_time": "25 min",
+      "calories": "200 calories",
+      "image": "https://i.ibb.co/wL7Hv69/Salmon5.jpg"
+    },
+    {
+      "id": "5",
+      "recipe_name": "Beef Chili",
+      "short_description": "Hearty and spicy chili with ground beef, beans, and tomatoes",
+      "ingredients": ["500g ground beef", "400g canned kidney beans", "400g canned diced tomatoes", "1 onion, chopped", "2 cloves garlic, minced"],
+      "preparing_time": "35 min",
+      "calories": "320 calories",
+      "image": "https://i.ibb.co/TvWn55r/Rectangle2.png"
+    },
+    {
+      "id": "6",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy Italian rice dish with flavorful mushrooms and Parmesan cheese",
+      "ingredients": ["300g Arborio rice", "200g mushrooms (such as cremini or shiitake)", "1 onion, finely chopped", "1L vegetable broth", "50g grated Parmesan cheese"],
+      "preparing_time": "30 min",
+      "calories": "380 calories",
+      "image": "https://i.ibb.co/60GBhG6/Rectangle3.png"
+    }
+  ]
